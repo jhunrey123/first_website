@@ -1,0 +1,84 @@
+body{
+	background-color: peachpuff;
+	color:#555 ;
+	font-family: times new roman;
+	font-size: small;
+	line-height: 1cm;
+	margin: 0;
+	background-image: url('../image/cute.jpg');
+}
+
+.container {
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+	color: black;
+}
+
+#main-header{
+	background-image: url('../image/bts.jpg');
+	color: #seagreen;
+}
+
+#navbar{
+	background-color: powderblue;
+	color: #fff;
+}
+
+#navbar ul{
+	list-style: none;
+	padding: 0;
+
+}
+
+
+div
+
+font-size: 140%;
+line-height: ;
+
+}
+
+h1 {
+
+font-size: ;
+
+}
+
+#navbar li{ 
+display: inline;
+ }
+
+#navbar a{
+	color: royalblue;
+	text-decoration: none;
+	font-size: 18px;
+	padding-right: 15px ;
+}
+
+#showcase{
+	text-align: center;
+
+
+}
+
+}
+
+#showcase h1{
+	color: lightpink;
+	font-size: 70px;
+	line-height: 3cm;
+}
+
+.frame {
+  width: 500px;
+  height: 350px;
+  border: 2px solid #ccc;
+  background: #eee;
+  margin: auto;
+  padding: 15px 10px;
+  background-color: lightpink;
+}
+
+
+

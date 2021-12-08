@@ -1,0 +1,79 @@
+body{
+	background-color: peachpuff;
+	color:#555 ;
+	font-family: times new roman;
+	font-size: small;
+	line-height: 1cm;
+	margin: 0;
+	background-image: url('../image/peach.jpg');
+}
+
+.container {
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+	color: black;
+}
+
+#navbar{
+	background-color: powderblue;
+	color: #fff;
+}
+
+#navbar ul{
+	list-style: none;
+	padding: 0;
+
+}
+
+
+div
+
+font-size: 140%;
+line-height: ;
+
+}
+
+h1 {
+
+font-size: ;
+
+}
+
+#navbar li{ 
+display: inline;
+ }
+
+#navbar a{
+	color: royalblue;
+	text-decoration: none;
+	font-size: 18px;
+	padding-right: 15px ;
+}
+
+#showcase{
+	text-align: center;
+
+
+}
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 250px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
